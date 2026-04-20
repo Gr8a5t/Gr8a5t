@@ -1,3 +1,5 @@
+### Watch my GitHub contribution Snake Game 🐍
+
 ![github contribution grid snake animation](dist/github-contribution-grid-snake.gif)
 
 <!--

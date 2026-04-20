@@ -1,5 +1,4 @@
-## Hi there 👋
-![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](dist/github-contribution-grid-snake.gif)
 
 <!--
 **Gr8a5t/Gr8a5t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

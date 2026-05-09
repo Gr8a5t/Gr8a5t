@@ -20,7 +20,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Gr8a5t
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4

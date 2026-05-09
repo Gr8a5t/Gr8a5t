@@ -1,6 +1,5 @@
 ### Watch my GitHub contribution Snake Game 🐍
-
-![Snake animation](https://github.com/Gr8a5t/Gr8a5t/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Gr8a5t/Gr8a5t/output/github-contribution-grid-snake.svg)
 
 <!--
 **Gr8a5t/Gr8a5t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
